@@ -57,7 +57,8 @@ A REST API for recording and monitoring daily expenses with monthly summaries an
 ---
 
 ### 🌟 WinFeed
-A social platform where users can share their daily wins. My first independently built and deployed web app.
+A social platform where users can share their daily wins. My first project which are deployed.
+
 
 **Built with:** Flask • SQLAlchemy • SQLite • Jinja2 • Bootstrap 5
 
