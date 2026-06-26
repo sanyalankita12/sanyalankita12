@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ankita Sanyal</h1>
+<h1 align="center">Hi, I'm Ankita Sanyal</h1>
 <h3 align="center">Backend Developer in Progress | Python • FastAPI • PostgreSQL</h3>
 
 <p align="center">
@@ -7,13 +7,13 @@
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
-- 🎓 B.Tech Computer Science (Data Science) Student
-- 💻 Backend Developer focused on Python and REST APIs
-- ⚡ Built two real projects from scratch — a deployed social app and a finance tracker API
-- 🚀 Currently going deep into **FastAPI** and **PostgreSQL**
-- 🎯 Goal: Become a job-ready Backend Software Engineer
+-  B.Tech Computer Science (Data Science) Student
+-  Backend Developer focused on Python and REST APIs
+-  Built two real projects from scratch — a deployed social app and a finance tracker API
+-  Currently going deep into **FastAPI** and **PostgreSQL**
+-  Goal: Become a job-ready Backend Software Engineer
 
 ---
 
@@ -41,12 +41,12 @@
 
 ## 🚀 Featured Projects
 
-### 💰 Finance Tracker API
+###  Finance Tracker API
 A REST API for recording and monitoring daily expenses with monthly summaries and breakdowns.
 
 **Built with:** FastAPI • PostgreSQL • SQLAlchemy • Pydantic
 
-✨ Features
+ Features
 - Add expenses with auto-captured IST timestamp
 - View all recorded expenses
 - Monthly total summary
@@ -56,7 +56,7 @@ A REST API for recording and monitoring daily expenses with monthly summaries an
 
 ---
 
-### 🌟 WinFeed
+###  WinFeed
 A social platform where users can share their daily wins. My first project which are deployed.
 
 
@@ -66,7 +66,7 @@ A social platform where users can share their daily wins. My first project which
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 - Advanced FastAPI (middleware, background tasks)
 - Deeper PostgreSQL and query optimization
@@ -74,7 +74,7 @@ A social platform where users can share their daily wins. My first project which
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=sanyalankita12&show_icons=true&theme=github_dark" width="48%" />
@@ -83,7 +83,7 @@ A social platform where users can share their daily wins. My first project which
 
 ---
 
-## 💻 Most Used Languages
+##  Most Used Languages
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanyalankita12&layout=compact&theme=github_dark" />
@@ -91,10 +91,10 @@ A social platform where users can share their daily wins. My first project which
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
-- 💼 LinkedIn: [ankitasanyal12](https://www.linkedin.com/in/ankitasanyal12/)
-- 📧 Email: ankitasanyal55@gmail.com
+-  LinkedIn: [ankitasanyal12](https://www.linkedin.com/in/ankitasanyal12/)
+-  Email: ankitasanyal55@gmail.com
 
 ---
 
