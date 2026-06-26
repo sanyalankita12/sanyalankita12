@@ -98,5 +98,5 @@ A social platform where users can share their daily wins. My first independently
 ---
 
 <p align="center">
-⭐ I build to learn. Every project here is something I actually coded myself.
+⭐ I build to learn ⭐ 
 </p>
