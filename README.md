@@ -51,6 +51,7 @@ A REST API for recording and monitoring daily expenses with monthly summaries an
 - View all recorded expenses
 - Monthly total summary
 - Date-wise expense breakdown
+- Delete and Update Expense Data
 
 🔗 [GitHub Repository](https://github.com/sanyalankita12/Finance-Tracker)
 
