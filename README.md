@@ -53,6 +53,7 @@ A REST API for recording and monitoring daily expenses with monthly summaries an
 - Date-wise expense breakdown
 - Delete and Update Expense Data
 - Categorize expenses with predefined categories (Food, Grocery, Transport, Shopping, Bills, Entertainment, Health, Other)
+- View yearly details with total expenditure & get details for specific dates by range(start date ,end date)
 
 🔗 [GitHub Repository](https://github.com/sanyalankita12/Finance-Tracker)
 
