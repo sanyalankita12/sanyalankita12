@@ -1,4 +1,3 @@
-```markdown
 #  Ankita Sanyal
 
 - Full Stack Developer (Learning)  
@@ -41,4 +40,4 @@ A full-stack project for managing customers, insurance policies, claims, premium
 
 ---
 ⭐ Still learning, still building, one project at a time.
-```
+
