@@ -1,7 +1,7 @@
 #  Ankita Sanyal
 
 - Full Stack Developer (Learning)  
-- Currently learning React, Node.js, Express.js & PostgreSQL through my internship at **Labmentix**.  
+- Currently learning React, Node.js, Express.js & PostgreSQL .
 - I enjoy building projects and learning by doing.
 
 ##  Tech Stack
